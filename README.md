@@ -169,8 +169,7 @@ This project demonstrates how SDN can be used for efficient network monitoring. 
 ## 15. Author
 
 Yaseen Mulla
-Computer Science and Engineering
-PES University
+
 
 ---
 
